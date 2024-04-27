@@ -27,8 +27,3 @@ $ rmmod tasks_lister_[linear|dfs]       # Remove module
 $ dmesg                                 # Show message
 $ dmesg -C                              # Clear message
 ```
-
-## License
-
-Apache 2.0  
-Copyright 2015 [Kanitkorn Sujautra](https://kanitkorn.com)
